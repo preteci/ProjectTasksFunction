@@ -5,6 +5,10 @@ ProjectFunctionTask is an Azure Function C# Application that takes data from Azu
 In order for project to work please edit **local.settings.json** with
 
 "SqlConnectionString": "Your_Sql_Connection_String"
+
 "CosmosUrl": "Your_Cosmos_Uri"
-"CosmosKey": "Your_Cosmos_Db_Key",
+
+"CosmosKey": "Your_Cosmos_Db_Key"
+
 "CosmosDatabaseName": "Your_Cosmos_Database"
+
