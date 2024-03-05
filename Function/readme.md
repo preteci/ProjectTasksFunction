@@ -4,7 +4,9 @@ ProjectFunctionTask is an Azure Function C# Application that takes data from Azu
 This project uses TimeTrigger to 
 The purpose of this project is to make a backup snapshot every X interval of time with TimeTrigger function that can be edited direactly in code.
 Required Nuget Pacakge for this projec are:
+
 **Microsoft.EntityFrameworkCore.SqlServer**
+
 **Microsoft.EntityFrameworkCore.Cosmos**
 
 
