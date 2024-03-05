@@ -2,7 +2,7 @@
 
 ProjectFunctionTask is an Azure Function C# Application that takes data from Azure SQL Database and forwards it to Auzre Cosmos DB
 
-In order for project to work please edit **local.settings.json** with
+In order for project to work please edit **local.settings.json** with:
 
 "SqlConnectionString": "Your_Sql_Connection_String"
 
