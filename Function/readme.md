@@ -5,12 +5,12 @@ This project uses TimeTrigger to
 The purpose of this project is to make a backup snapshot every X interval of time with TimeTrigger function that can be edited direactly in code.
 Required Nuget Pacakge for this projec are:
 
-**Microsoft.EntityFrameworkCore.SqlServer**
+- **Microsoft.EntityFrameworkCore.SqlServer**
 
-**Microsoft.EntityFrameworkCore.Cosmos**
+- **Microsoft.EntityFrameworkCore.Cosmos**
 
 
-PLease add the following values to your **local.settings.json** :
+Please add the following values to your **local.settings.json** :
 
 - "SqlConnectionString": "Your_Sql_Connection_String"
 
